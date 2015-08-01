@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :dentists
   resources :appointments
   resources :patients
   # The priority is based upon order of creation: first created -> highest priority.
