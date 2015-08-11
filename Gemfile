@@ -43,3 +43,6 @@ group :development, :test do
   gem 'spring'
 end
 
+gem 'responders', '~> 2.0'
+
+gem 'bootstrap-sass'
